@@ -249,7 +249,7 @@ Sample SE Resumes:
 
 ### MATH 115 - Linear Algebra for Engineering
 - https://matrixcalc.org/en/
-- https://matrixcalc.org/en/slu.html
+- https://wiki-arabic.com/%D8%AD%D8%A7%D8%B3%D8%A8%D8%A9-%D8%B6%D8%B1%D8%A8-%D8%A7%D9%84%D9%85%D8%B5%D9%81%D9%88%D9%81%D8%A7%D8%AA/
 - http://www.math.odu.edu/~bogacki/cgi-bin/lat.cgi
 - https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 
